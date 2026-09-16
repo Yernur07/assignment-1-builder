@@ -1,0 +1,7 @@
+[33m9ff2859[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m refactor: update director log message format
+[33mc3e5276[m docs: complete final report and documentation
+[33mdb0e853[m docs: add UML diagram to docs folder
+[33maede97a[m test: add 10 unit tests covering constraints and boundary cases
+[33mcf27ce6[m feat: add SmartHomeDirector for preset configurations
+[33m93e07d6[m feat: implement initial SmartHomeSystem with Builder pattern
+[33me0ecd30[m feat: add RoomLocation value object for Part A
