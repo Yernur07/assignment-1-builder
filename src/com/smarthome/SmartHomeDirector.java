@@ -13,7 +13,7 @@ public class SmartHomeDirector {
                 .enableAutomaticBackup()
                 .sendNotificationsVia("SMS")
                 .build();
-        System.out.println("🍌 SAFE Preset successfully initialized: " + system.getSystemId());
+        System.out.println("SUCCESS: SmartHomeSystem [SAFE] created with ID: " + system.getSystemId());
         return system;
     }
     public SmartHomeSystem buildPerformanceConfig(String id, String owner, RoomLocation location) {
